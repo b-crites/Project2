@@ -69,6 +69,14 @@ li a{
     text-decoration: none;
     color: var(--Black);
 }
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+
+}
 .noDeco{
     text-decoration: none;
     display: inline-flex;
