@@ -4,6 +4,7 @@
 ### Navigation bar will take you to selected option. 
 ### Buttons with links have a hover effect that matches the website color. 
 ### Work section is the biggest section on the page. 
+### Added picture to bottom of about section.
 
 
 https://b-crites.github.io/Project2/
